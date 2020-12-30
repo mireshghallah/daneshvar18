@@ -1,4 +1,4 @@
-# pan18ap (PAN 2018, Author Profiling task)
+# PAN 2018, Author Profiling task (pan18ap)
 The participation of the *Natural Language Processing Lab* of the *University of Ottawa*\
 in the [Author Profiling shared task at PAN 2018](https://pan.webis.de/clef18/pan18-web/author-profiling.html)
 
@@ -46,12 +46,15 @@ On the same page, you can also find the following paper:
     > Francisco Rangel, Paolo Rosso, Martin Potthast, Benno Stein. [*Overview of the 6th Author Profiling Task at PAN 2018: Multimodal Gender Identification in Twitter*](http://ceur-ws.org/Vol-2125/invited_paper_15.pdf). In: CLEF 2018 Labs and Workshops, Notebook Papers. CEUR Workshop Proceedings. CEUR-WS.org, vol. 2125.
     
     Start by reviewing this paper, to get a sense of what approaches have been tried in the previous year and what has worked best for other participants. The next step would be to reproduce the experiments of other participants.
-1. Head to the [PAN's publications](https://pan.webis.de/publications.html) page (not yet updated with the 2018 papers) or the [CLEF 2018 Working Notes](http://ceur-ws.org/Vol-2125/), and look for the notebook papers of the top-ranking teams.
+1. Head to the [PAN's publications](https://pan.webis.de/publications.html) page or the [CLEF 2018 Working Notes](http://ceur-ws.org/Vol-2125/), and look for the notebook papers of the top-ranking teams.
 The papers should include all the required details to reproduce their experiments. The links to our paper are provided [here](#citation).
-1. Some teams also publish their source code. You can find them at [PAN's GitHub](https://github.com/pan-webis-de). To explore our code, continue to the [Installation](#installation) section.
+1. Some teams also publish their source code. You can find them at [PAN's GitHub](https://github.com/pan-webis-de). To explore our code, continue to the [Installation](#installation) section. This would save you a lot of time and help you foucs on what matters: implementing new methods and models, and tuning your hyperparameters.
+1. Best of luck!
 
 ### I am new to Python. What do I do?
-A great place to start is the [beginner's guide](https://www.python.org/about/gettingstarted/) and the [Python tutorial](https://docs.python.org/3/tutorial/) at Python's own website. Needless to say, there are plenty of books, online courses and GitHub repositories to help you learn Python, but we won't get into that here.
+Taking a programming course from [**Python ASAP**](https://pythonasap.com) is the best way I can think of to learn Python. During this course, you will get great assignments and quizzes with solutions and personalized feedback. Most importantly, you would have access to the Python ASAP textbook.
+
+Another great place to start is the [beginner's guide](https://www.python.org/about/gettingstarted/) and the [Python tutorial](https://docs.python.org/3/tutorial/) at Python's own website. Needless to say, there are plenty of other online courses, books, and GitHub repositories to help you learn Python.
 
 Once you have your Python installation up and running, you can continue to the [next section](#installation), to set up my code on your computer.
 
